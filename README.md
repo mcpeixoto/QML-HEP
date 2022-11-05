@@ -7,15 +7,19 @@
 # Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets
 
 Authors:
-Miguel Caçador Peixoto (1), Nuno Filipe Castro (1), Miguel Crispim Romão (2), Maria Gabriela Jordão Oliveira (1).
+Miguel Caçador Peixoto (1), Nuno Filipe Castro (1,2), Miguel Crispim Romão (1,3), Maria Gabriela Jordão Oliveira (1), Inês Ochoa (4)
 
-**1** - LIP - Laboratório de Instrumentação e Física Experimental de Partículas,
-Departamento de Física, Escola de Ciências, Universidade do Minho
+**1** - LIP - Laboratório de Instrumentação e Física Experimental de Partículas, Escola de Ciências, Campus de Gualtar, Universidade do Minho, 
+4701-057 Braga, Portugal
+ 
+**2** - Departamento de Física, Escola de Ciências, Campus de Gualtar, Universidade do Minho, 
 4701-057 Braga, Portugal
 
-**2** - Department of Physics and Astronomy,
-University of Southampton,
+**3** - Department of Physics and Astronomy, University of Southampton,
 SO17 1BJ Southampton, United Kingdom
+
+**4** - LIP - Laboratório de Instrumentação e Física Experimental de Partículas, 
+Av. Prof. Gama Pinto, 2, 1649-003 Lisboa, Portugal
 
 
 ## Abstract
