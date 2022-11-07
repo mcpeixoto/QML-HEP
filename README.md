@@ -167,9 +167,3 @@ Note 2: If you desire to use GPU on the supported models, please change the ```u
 -  `Makefile`
 
 `*` - Automatically generated folders
-
-  
-
-## Reference
-
-TODO: Referencia do artigo
