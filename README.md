@@ -4,7 +4,7 @@
     <img src=".media/qml-hep-white.png">
 </picture>
   
-# Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets
+# [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets](https://arxiv.org/abs/2211.03233)
 
 Authors:
 Miguel Caçador Peixoto (1), Nuno Filipe Castro (1,2), Miguel Crispim Romão (1,3), Maria Gabriela Jordão Oliveira (1), Inês Ochoa (4)
@@ -167,3 +167,7 @@ Note 2: If you desire to use GPU on the supported models, please change the ```u
 -  `Makefile`
 
 `*` - Automatically generated folders
+
+# Reference
+
+- [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets, arxiv.org](https://arxiv.org/abs/2211.03233)
