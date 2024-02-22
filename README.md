@@ -170,4 +170,4 @@ Note 2: If you desire to use GPU on the supported models, please change the ```u
 
 # Reference
 
-- [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets, arXiv:2211.03233](https://arxiv.org/abs/2211.03233)
+- [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets, arXiv:2211.03233](https://arxiv.org/abs/2211.03233), [Front. Artif. Intell. 6 (2023) 1268852](https://doi.org/10.3389/frai.2023.1268852)
